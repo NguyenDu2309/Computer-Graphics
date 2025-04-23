@@ -30,11 +30,17 @@ PyOpenGL_accelerate
 Các thư viện khác được liệt kê trong requirements.txt
 
 🚀 Hướng dẫn cài đặt và chạy
+
 Cài đặt Python 3.12: Đảm bảo bạn đã cài đặt phiên bản Python 3.12 trên hệ thống.
+
 python main.py 
 
 🎯 Mục tiêu dự án
+
 Làm quen với lập trình đồ họa 3D sử dụng PyOpenGL.
+
 Mô phỏng các đối tượng không gian như hành tinh với hiệu ứng ánh sáng và texture.
+
 Áp dụng các phép biến đổi hình học: tịnh tiến, xoay, co giãn.
+
 Tích hợp texture và ánh xạ bề mặt cho đối tượng 3D.
